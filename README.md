@@ -1,7 +1,7 @@
 <div align="center">
   <h2>🐺 Xenos Grabber 🐺</h2>
   <p>The most powerfull Discord Token Grabber</p>
-  <a href="https://kanekiweb.tk/discord" target="_blank">Join my Discord Serveur</a><br><br>
+  <a href="" target="_blank">Join my Discord Serveur</a><br><br>
 
   <img src="https://kanekiweb.tk/assets/img/xenos.gif" style="width: 600px; height: 400px;">
 </div>
