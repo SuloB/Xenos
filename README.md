@@ -1,7 +1,7 @@
 <div align="center">
-  <h2>🐺 Xenos Grabber 🐺</h2>
+  <h2> seo Grabber </h2>
   <p>The most powerfull Discord Token Grabber</p>
-  <a href="https://guns.lol/seo" target="_blank">Join my Discord Serveur</a><br><br>
+  <a href="" target="_blank">Join my Discord server</a><br><br>
 
   <img src="" style="width: 600px; height: 400px;">
 </div>
@@ -18,7 +18,7 @@
 - Steal all the gifts that the user has
 - Detect Flagged/Working Tokens
 
-## How to use Xenos
+## How to use Seo
 - If you're gay you can follow step by step this tutorial: https://youtube.com/
 - Else follow Step by Step that:
   - You need a website to host the files (you can use 000webhost)
