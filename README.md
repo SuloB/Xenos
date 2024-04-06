@@ -1,5 +1,5 @@
 <div align="center">
-  <h2> seo Grabber </h2>
+  <h2> Seo Grabber </h2>
   <p>The most powerfull Discord Token Grabber</p>
   <a href="" target="_blank">Join my Discord server</a><br><br>
 
